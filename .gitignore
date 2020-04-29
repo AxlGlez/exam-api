@@ -1,0 +1,16 @@
+node_modules/*
+dist/
+.DS_Store
+config/config.js
+npm-debug.log
+config/cache/
+*.swp
+.jshintrc
+
+src/imprimibles/pdf/
+src/imprimibles/downloads/
+src/imprimibles/cache/
+src/config/cache/
+src/imprimibles/session/
+.env
+package-lock.json
